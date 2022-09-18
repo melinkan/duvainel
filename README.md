@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone 👋🏻  I'm Melin</h1>
 
-<h3 align="center">A frontend developer from Istanbul, Turkey</h3>
-<p align="center">Hi! My name is Melin Kan. I am a Frontend Developer, and I'm very passionate and dedicated to my work.</p>
+<h3 align="center">A frontend developer from Antalya, Turkey</h3>
+<p align="center">Hi! My name is Melin Kan and I'm 23. I am a Frontend Developer, and I'm very passionate and dedicated to my work.</p>
 
 
 - 🌱 I’m currently learning **React.js**
