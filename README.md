@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋🏻  My name is Melin Kan and I'm 23</h1>
+<h1 align="center">Hello everyone 👋🏻  I'm Melin</h1>
 
 <h3 align="center">A frontend developer from Antalya, Turkey</h3>
 <p align="center">I am interested in frontend development, and I'm very passionate and dedicated to my work.</p>
