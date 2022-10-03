@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋🏻  I'm Melin</h1>
 
-<h3 align="center">A frontend developer from Antalya, Turkey</h3>
+<h3 align="center">A frontend web developer from Antalya, Turkey</h3>
 <p align="center">I am interested in frontend development, and I'm very passionate and dedicated to my work.</p>
 
 
