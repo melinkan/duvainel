@@ -1,10 +1,7 @@
 <h1 align="center">Hello everyone 👋🏻  I'm Melin</h1>
 
-<h3 align="center">A frontend web developer from Antalya, Turkey</h3>
+<h3 align="center">A web frontend developer from Antalya, Turkey</h3>
 <p align="center">I am interested in frontend development, and I'm very passionate and dedicated to my work.</p>
-
-
-- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **melin.kan@outlook.com**
 
