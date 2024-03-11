@@ -1,7 +1,6 @@
 <h1>Hello everyone 👋🏻  I'm Melin</h1>
 
 <h3>A web frontend developer from Antalya, Turkey 👩🏻‍💻​</h3>
-<p>I am interested in frontend development, and I'm very passionate and dedicated to my work.</p>
 
 - 📫 How to reach me **hello@melinkan.com**
 
